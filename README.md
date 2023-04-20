@@ -1,0 +1,2 @@
+# flutter_wechart_post
+学习使用Flutter实现朋友圈效果
